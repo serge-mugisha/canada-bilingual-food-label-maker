@@ -1,0 +1,119 @@
+{
+  "defaultPercentRounding": 0,
+  "nutrients": {
+    "energy_kcal": {
+      "amountDecimals": 0,
+      "thresholdZero": 5,
+      "forceShowZero": false
+    },
+    "fat_total": {
+      "amountDecimals": 1,
+      "thresholdZero": 0.5,
+      "percentDecimals": 0,
+      "forceShowZero": false
+    },
+    "fat_saturated": {
+      "amountDecimals": 1,
+      "thresholdZero": 0.1,
+      "percentDecimals": 0,
+      "forceShowZero": false
+    },
+    "fat_trans": {
+      "amountDecimals": 1,
+      "thresholdZero": 0.1,
+      "percentDecimals": 0,
+      "forceShowZero": true
+    },
+    "cholesterol": {
+      "amountDecimals": 0,
+      "thresholdZero": 2,
+      "percentDecimals": 0,
+      "forceShowZero": false
+    },
+    "sodium": {
+      "amountDecimals": 0,
+      "thresholdZero": 5,
+      "percentDecimals": 0,
+      "forceShowZero": false
+    },
+    "carbohydrate_total": {
+      "amountDecimals": 0,
+      "thresholdZero": 0.5,
+      "percentDecimals": 0,
+      "forceShowZero": false
+    },
+    "fiber": {
+      "amountDecimals": 1,
+      "thresholdZero": 0.5,
+      "percentDecimals": 0,
+      "forceShowZero": false
+    },
+    "sugars": {
+      "amountDecimals": 0,
+      "thresholdZero": 0.5,
+      "percentDecimals": 0,
+      "forceShowZero": false
+    },
+    "protein": {
+      "amountDecimals": 0,
+      "thresholdZero": 0.5,
+      "percentDecimals": 0,
+      "showPercent": false,
+      "forceShowZero": false
+    },
+    "vitaminD": {
+      "amountDecimals": 1,
+      "thresholdZero": 0.1,
+      "percentDecimals": 0,
+      "forceShowZero": false
+    },
+    "calcium": {
+      "amountDecimals": 0,
+      "thresholdZero": 5,
+      "percentDecimals": 0,
+      "forceShowZero": false
+    },
+    "iron": {
+      "amountDecimals": 1,
+      "thresholdZero": 0.1,
+      "percentDecimals": 0,
+      "forceShowZero": false
+    },
+    "potassium": {
+      "amountDecimals": 0,
+      "thresholdZero": 5,
+      "percentDecimals": 0,
+      "forceShowZero": false
+    },
+    "mono": {
+      "amountDecimals": 1,
+      "thresholdZero": 0.5,
+      "forceShowZero": false
+    },
+    "poly": {
+      "amountDecimals": 1,
+      "thresholdZero": 0.5,
+      "forceShowZero": false
+    },
+    "omega3": {
+      "amountDecimals": 1,
+      "thresholdZero": 0.1,
+      "forceShowZero": false
+    },
+    "omega6": {
+      "amountDecimals": 1,
+      "thresholdZero": 0.1,
+      "forceShowZero": false
+    },
+    "sugar_alcohols": {
+      "amountDecimals": 0,
+      "thresholdZero": 0.5,
+      "forceShowZero": false
+    },
+    "starch": {
+      "amountDecimals": 0,
+      "thresholdZero": 0.5,
+      "forceShowZero": false
+    }
+  }
+}

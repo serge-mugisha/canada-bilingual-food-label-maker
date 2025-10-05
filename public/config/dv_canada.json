@@ -1,0 +1,102 @@
+{
+  "energy_kcal": {
+    "dv": 2000,
+    "unit": "kcal",
+    "showPercent": false
+  },
+  "fat_total": {
+    "dv": 78,
+    "unit": "g",
+    "showPercent": true
+  },
+  "fat_saturated": {
+    "dv": 20,
+    "unit": "g",
+    "showPercent": true
+  },
+  "fat_trans": {
+    "dv": null,
+    "unit": "g",
+    "showPercent": false
+  },
+  "cholesterol": {
+    "dv": 300,
+    "unit": "mg",
+    "showPercent": true
+  },
+  "sodium": {
+    "dv": 2300,
+    "unit": "mg",
+    "showPercent": true
+  },
+  "carbohydrate_total": {
+    "dv": 275,
+    "unit": "g",
+    "showPercent": true
+  },
+  "fiber": {
+    "dv": 28,
+    "unit": "g",
+    "showPercent": true
+  },
+  "sugars": {
+    "dv": 50,
+    "unit": "g",
+    "showPercent": true
+  },
+  "protein": {
+    "dv": null,
+    "unit": "g",
+    "showPercent": false
+  },
+  "vitaminD": {
+    "dv": 20,
+    "unit": "mcg",
+    "showPercent": true
+  },
+  "calcium": {
+    "dv": 1300,
+    "unit": "mg",
+    "showPercent": true
+  },
+  "iron": {
+    "dv": 18,
+    "unit": "mg",
+    "showPercent": true
+  },
+  "potassium": {
+    "dv": 4700,
+    "unit": "mg",
+    "showPercent": true
+  },
+  "mono": {
+    "dv": null,
+    "unit": "g",
+    "showPercent": false
+  },
+  "poly": {
+    "dv": null,
+    "unit": "g",
+    "showPercent": false
+  },
+  "omega3": {
+    "dv": null,
+    "unit": "g",
+    "showPercent": false
+  },
+  "omega6": {
+    "dv": null,
+    "unit": "g",
+    "showPercent": false
+  },
+  "sugar_alcohols": {
+    "dv": null,
+    "unit": "g",
+    "showPercent": false
+  },
+  "starch": {
+    "dv": null,
+    "unit": "g",
+    "showPercent": false
+  }
+}
