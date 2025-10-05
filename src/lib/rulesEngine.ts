@@ -1,4 +1,4 @@
-import type { DVConfig, RulesConfig, NutrientAmount, Unit } from '../types';
+import type { DVConfig, RulesConfig, Unit } from '../types';
 
 /**
  * Convert units to a common base for calculations
